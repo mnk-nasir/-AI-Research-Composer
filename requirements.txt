@@ -1,0 +1,10 @@
+requests
+google-api-python-client
+google-auth-oauthlib
+openai
+python-dotenv
+# Note: smtplib is built-in, base64 built-in
+# Add any missing: 
+tweepy  # For Twitter
+facebook-sdk  # For Facebook
+linkedin-api  # For LinkedIn
